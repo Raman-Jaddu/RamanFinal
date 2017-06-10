@@ -1,3 +1,5 @@
 This is the first file added
 
 Changed it in the second commit
+
+Changed it in the third commit and adding to different branch other than master
